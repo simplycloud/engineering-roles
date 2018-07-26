@@ -5,7 +5,7 @@ The purpose of this document is to describe the general responsibilities and exp
 ### As a software engineer you have:
 * Competency in at least one core programming language;
 * Strong computer science fundamentals;
-* Experience and able to work as part of a team;
+* Experienced working as part of a team;
 * Motivated and curious learner;
 * Passion for the Code.org mission.
 

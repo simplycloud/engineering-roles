@@ -2,14 +2,14 @@ Software Engineer (**DRAFT**)
 -----------------
 The purpose of this document is to describe the general responsibilities and expectations for a software engineer at Code.org and to provide directional guidance for what growth looks like in this role.
 
-### As a software engineer you have:
+### *As a software engineer you have*:
 * Competency in at least one core programming language;
 * Strong computer science fundamentals;
 * Experienced working as part of a team;
 * Motivated and curious learner;
 * Passion for the Code.org mission.
 
-### As a software engineer you will:
+### *As a software engineer you will*:
 * Write functional, well-tested, high-quality code to deliver end to end features;
 * Create design documents that consider scalability, availability, and performance;
 * Share work estimates with reasonable accuracy, working in an Agile development environment;
@@ -21,7 +21,7 @@ The purpose of this document is to describe the general responsibilities and exp
 * Communicate ideas clearly, respond professionally to feedback, and commit to team direction;
 * Actively contribute to our culture of working hard and having fun, while respecting others and delivering on our mission of enabling “all students in all schools to learn computer science”.
 
-### What growth looks like for you:
+### *What growth could look like for you*:
 At Code.org we strive to create a growth-oriented culture. We ask our team members to provide candid, constructive, and example-focused feedback anytime throughout the year directly to their teammates; a couple of times during the year we ask each person on the team to provide a bit more formal written feedback that can be used between a manager and engineer to offer specific guidance toward individual growth plans. Everyone on the team regardless of job function or time in role gets to participate. Currently, we do not do formal performance reviews or ratings, have job levels, or perform stack ranking as we believe these can contribute to a comparative, competitive, or tier-focused culture; we do place value in each individuals unique contribution which help us achieve our mission. Our growth "yardstick”, shown below, can be used as a template for self-measuring technical and leadership expansion and to establish individual growth goals as one progresses through their time in an engineering role.
 
 | **Our Growth Yardstick** | **1 to 3 years** | **4 to 8 years** | **8 years and beyond** |

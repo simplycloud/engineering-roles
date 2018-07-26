@@ -29,4 +29,4 @@ The purpose of this document is to describe the general responsibilities and exp
 | **Leadership** | Collaborative team member, shares ideas and feedback. Impact is generally at a component-level. | Collaborative team member, shares ideas and feedback, including advising others. Impact is generally at a product-level within a team. | Collaborative team member, shares ideas and feedback, including advising leadership team. Impact is generally cross-product and cross-team. |
 | **Time in Role ^** | 1 - 3 years | 4 - 8 years | 8 + years |
 
-^ this is general guidance designed to look for “real-world”, hands-on experience in a role
+^ this is general guidance designed to look for “real-world” hands-on experience in a role

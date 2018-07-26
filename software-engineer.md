@@ -23,6 +23,7 @@ The purpose of this document is to describe the general responsibilities and exp
 
 ### Contribution and growth matrix offered for general growth guidance:
 | Area of Focus | Level I (Junior) | Level II (Mid) | Level III (Senior) |
+| ------------- | ------------- || ------------- | ------------- |
 | Technical | Solves straightforward technical problems, with assistance from other engineers at times. Solutions may need refinement. | Solves complex technical problems from design to feature delivery, independently. Provides constructive code review feedback across the team. | Solves significantly complex technical problems, providing architectural and design guidance when solutions are not well-defined. |
 | Leadership | Collaborative team member, shares ideas and feedback. Impact is generally at a component-level. | Collaborative team member, shares ideas and feedback, including advising others. Impact is generally at a product-level within a team. | Collaborative team member, shares ideas and feedback, including advising leadership team. Impact is generally cross-product and cross-team. |
 | Time in Role ^ | 1 - 3 years | 4 - 8 years | 8 + years |

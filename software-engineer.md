@@ -24,7 +24,8 @@ The purpose of this document is to describe the general responsibilities and exp
 ### *What growth could look like for you*:
 At Code.org we strive to create a growth-oriented culture. We ask our team members to provide candid, constructive, and example-focused feedback anytime throughout the year directly to their teammates; a couple of times during the year we ask each person on the team to provide a bit more formal written feedback that can be used between a manager and engineer to offer specific guidance toward individual growth plans. Everyone on the team regardless of job function or time in role gets to participate. Currently, we do not do formal performance reviews or ratings, have job levels, or perform stack ranking as we believe these can contribute to a comparative, competitive, or tier-focused culture; we do place value in each individuals unique contribution which help us achieve our mission. Our growth "yardstick”, shown below, can be used as a template for self-measuring technical and leadership expansion and to establish individual growth goals as one progresses through their time in an engineering role.
 
-| **Our Growth Yardstick** | **1 to 3 years** | **4 to 8 years** | **8 years and beyond** |
+### *Growth Yardstick*:
+| **Focus Area** | **1 to 3 years** | **4 to 8 years** | **8 years and beyond** |
 | :------- | :-------: | :-------: | :-------: |
 | **Coding Fluency** | | | |
 | **Coding Quality** | | | |

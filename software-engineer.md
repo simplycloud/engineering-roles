@@ -3,14 +3,14 @@
 ## Purpose
 This document describes the general responsibilities and expectations for a software engineer at Code.org and provides directional guidance for what growth looks like in this role. It establishes a model for providing a growth path for engineers regardless of their current hands-on experience and years in industry.
 
-## Core Competencies
+## Core Skills and Interests
 * Be proficient in at least one core programming language (ex: JavaScript, Ruby);
 * Have strong computer science fundamentals (ex: object-oriented programming, data structures, algorithms);
 * Have the experience and ability to work as part of a team;
 * Be a motivated and curious learner;
 * Have passion for the Code.org mission.
 
-## Opportunities for Growth
+## Day to Day Activities
 * Write functional, well-tested, high-quality code to deliver end to end features;
 * Create design documents that consider security, scalability, availability, and performance;
 * Share your ideas and experience with other engineers on the team (ex: peer feedback on Code Reviews and 1:1 mentoring);

@@ -1,27 +1,28 @@
-# Code.org Engineering Growth Matrix [v2019.03.02]
+# Code.org Software Engineering Growth Matrix [v2019.03.02]
 
 ## Purpose
 This document describes the general responsibilities and expectations for a software engineer at Code.org and provides directional guidance for what growth looks like in this role. It establishes a model for providing a growth path for engineers regardless of their current hands-on experience and years in industry.
 
-## As a software engineer you should:
-* Be competent in at least one core programming language (ex: JavaScript, Ruby);
+## Core Competencies
+* Be proficient in at least one core programming language (ex: JavaScript, Ruby);
 * Have strong computer science fundamentals (ex: object-oriented programming, data structures, algorithms);
 * Have the experience and ability to work as part of a team;
 * Be a motivated and curious learner;
 * Have passion for the Code.org mission.
 
-## As a software engineer you can:
+## Opportunities for Growth
 * Write functional, well-tested, high-quality code to deliver end to end features;
 * Create design documents that consider security, scalability, availability, and performance;
 * Share your ideas and experience with other engineers on the team (ex: peer feedback on Code Reviews and 1:1 mentoring);
-* Have the opportunity to become an expert in at least one area of our product or technology stack;
+* Become an expert in at least one area of our product or technology stack;
 * Deploy and support features in production (we deploy every day);
 * Be an active contributor to our organizational culture by working with other team members in a respectful and collaborative manner;
 * Demonstrate support of our mission of enabling “all students in all schools to learn computer science”.
 
-## What growth could look like for you:
-At Code.org we strive to create a growth-oriented culture. We ask our team members to provide candid, constructive, and example-focused feedback anytime throughout the year directly to their teammates; and a couple of times during the year we ask each person on the team to provide a bit more formal written feedback for a few of their peers that can be used to focus growth on specific areas of opportunity. Everyone on the team, regardless of job function or time in role, gets to participate. We do not have a culture of performance ratings, job levels, or stack ranking employees as we believe these contribute to a comparative, competitive, or tier-focused culture; rather, we value each individual's unique contributions which help us achieve our mission. Our growth matrix, shown below, can be used as a guide for self-evaluation and to help team members establish individual growth targets.
+## Our Growth Philosophy
+Our goal is to help every team member to grow each year. The growth matrix is designed to offer examples for both technical and non-technical skill development within a software engineering career path, and can be used for self-evaluation to help team members establish individual growth targets. It is also part of our culture for peers and development managers to encourage and facilitate sharing of growth-oriented and constructive feedback.
 
+## Growth Matrix
 
 | Experience Level | Technical Skill | Delivery | Impact | Leadership |
 |--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

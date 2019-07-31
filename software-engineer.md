@@ -10,7 +10,7 @@ This document describes the general responsibilities and expectations for a soft
 * Be a motivated and curious learner;
 * Have passion for the Code.org mission.
 
-## As a software engineer you will:
+## As a software engineer you can:
 * Write functional, well-tested, high-quality code to deliver end to end features;
 * Create design documents that consider security, scalability, availability, and performance;
 * Share your ideas and experience with other engineers on the team (ex: peer feedback on Code Reviews and 1:1 mentoring);
@@ -41,4 +41,4 @@ At Code.org we strive to create a growth-oriented culture. We ask our team membe
 | CTO | Accountable for architectural decisions with a focus on the product and business needs now and in the future. Leads strategic decisions around buy versus build and 3rd-party partnerships. Knows the right questions to help the team get to the right decisions. Shows strong judgement in balancing near-term investments vs the long-term strategy of the business. Greatest technical strengths are debugging and optimizing organizations and processes with a focus on efficiency, effectiveness, and people retention. | Applies strategies for building high velocity, high performance development organizations.Authors broad organizational policy documents around data privacy and security. Establishes clear focus on delivery for customers. Supports a culture of technical innovation within the team. Supports the creation, refinement, and enforcement of development standards in order to ensure that technology investments are leveraged and sustainable. Leads staff recruitment, staff development, and individual growth. | Team, cross-team, org-level, and LT scope of influence. Provides leadership to software managers and technical leads. Builds and supports high functioning and motivated technical teams. Builds a team that is self-sufficient in understanding how to balance technical sustainability vs business goals. Actively identifies bottlenecks across organization and works to remove them.Builds and maintains relationships with external partners. | Works with cross-org stakeholders to define, prioritize, and ensure the team is working on the most important business initiatives. Works with team to evolve and define engineering best practices. Establishes and supports a healthy team culture. Communicates multi-year technical strategy and leads the team in strategic discussions and planning. |
 |||||
 | v2019.03.02                                     |||||
-| Inspired by: | Rent the Runway, Patreon, Kickstarter, and others. || Collaborators: | Code.org Engineering team. 
+| Inspired by: | Rent the Runway, Patreon, Kickstarter, and others. || Collaborators: | Code.org Engineering team.

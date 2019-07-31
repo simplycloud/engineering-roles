@@ -4,23 +4,22 @@
 This document describes the responsibilities and expectations of a software engineer at Code.org and provides directional guidance for growth in this role. It establishes a growth path for engineers regardless of their current hands-on experience and years in industry.
 
 ## Core Skills and Interests
-* Be proficient in at least one core programming language (e.g. JavaScript, Ruby);
+* Build and demonstrate proficiency in at least one programming language (e.g. JavaScript, Ruby);
 * Have strong computer science fundamentals (e.g. object-oriented programming, data structures, algorithms);
 * Work as part of a team;
 * Be a motivated and curious learner;
 * Demonstrate passion for the Code.org mission.
 
 ## Day to Day Activities
-* Write correct, well-tested, high-quality code to deliver end to end features;
-* Create design documents that consider security, scalability, availability, and performance;
+* Write correct, well-tested, high-quality code to support our product vision;
+* Own technical design, development, deployment, and support of features;
 * Share your ideas and experience with other engineers on the team (e.g. peer feedback on Code Reviews and 1:1 mentoring);
 * Become an expert in at least one area of our product or technology stack;
-* Deploy and support features in production (we deploy every day);
 * Contribute to our organizational culture by working with other team members in a respectful and collaborative manner;
 * Demonstrate support of our mission of enabling “all students in all schools to learn computer science”.
 
 ## Our Growth Philosophy
-Our goal is to help every team member to grow each year. The growth matrix offers examples of both technical and non-technical skill development within a software engineering career path, and can be used for self-evaluation to help team members establish individual growth targets. It is also part of our culture for peers and development managers to encourage and facilitate sharing of growth-oriented and constructive feedback.
+Our goal is to help every team member to grow each year. The growth matrix offers examples of both technical and non-technical skill development within a software engineering career path, and can be used for self-evaluation to help team members establish individual growth targets. As part of our culture we encourage peers and development managers to regularly share growth-oriented and constructive feedback.
 
 ## Growth Matrix
 

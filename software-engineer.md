@@ -1,4 +1,4 @@
-# Code.org Software Engineering Growth Matrix [v2019.03.02]
+# Code.org Software Engineering Growth Matrix
 
 ## Purpose
 This document describes the general responsibilities and expectations for a software engineer at Code.org and provides directional guidance for what growth looks like in this role. It establishes a model for providing a growth path for engineers regardless of their current hands-on experience and years in industry.
